@@ -1,0 +1,13 @@
+C:\Users\João\source\repos\Calculadora\Multiplicacao\bin\Debug\Multiplicacao.exe.config
+C:\Users\João\source\repos\Calculadora\Multiplicacao\bin\Debug\Multiplicacao.exe
+C:\Users\João\source\repos\Calculadora\Multiplicacao\bin\Debug\Multiplicacao.pdb
+C:\Users\João\source\repos\Calculadora\Multiplicacao\obj\Debug\Multiplicacao.csprojResolveAssemblyReference.cache
+C:\Users\João\source\repos\Calculadora\Multiplicacao\obj\Debug\Multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Calculadora\Multiplicacao\obj\Debug\Multiplicacao.exe
+C:\Users\João\source\repos\Calculadora\Multiplicacao\obj\Debug\Multiplicacao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Multiplicacao\bin\Debug\Multiplicacao.exe.config
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Multiplicacao\bin\Debug\Multiplicacao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Multiplicacao\bin\Debug\Multiplicacao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Multiplicacao\obj\Debug\Multiplicacao.csprojResolveAssemblyReference.cache
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Multiplicacao\obj\Debug\Multiplicacao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Multiplicacao\obj\Debug\Multiplicacao.pdb

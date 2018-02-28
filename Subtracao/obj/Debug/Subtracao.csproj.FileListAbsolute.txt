@@ -1,0 +1,12 @@
+C:\Users\João\source\repos\Calculadora\Subtracao\bin\Debug\Subtracao.exe.config
+C:\Users\João\source\repos\Calculadora\Subtracao\bin\Debug\Subtracao.exe
+C:\Users\João\source\repos\Calculadora\Subtracao\bin\Debug\Subtracao.pdb
+C:\Users\João\source\repos\Calculadora\Subtracao\obj\Debug\Subtracao.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Calculadora\Subtracao\obj\Debug\Subtracao.exe
+C:\Users\João\source\repos\Calculadora\Subtracao\obj\Debug\Subtracao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Subtracao\bin\Debug\Subtracao.exe.config
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Subtracao\bin\Debug\Subtracao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Subtracao\bin\Debug\Subtracao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Subtracao\obj\Debug\Subtracao.csprojResolveAssemblyReference.cache
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Subtracao\obj\Debug\Subtracao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Subtracao\obj\Debug\Subtracao.pdb

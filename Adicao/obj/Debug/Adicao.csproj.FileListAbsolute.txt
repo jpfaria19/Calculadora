@@ -1,0 +1,12 @@
+C:\Users\João\source\repos\Calculadora\Adicao\bin\Debug\Adicao.exe.config
+C:\Users\João\source\repos\Calculadora\Adicao\bin\Debug\Adicao.exe
+C:\Users\João\source\repos\Calculadora\Adicao\bin\Debug\Adicao.pdb
+C:\Users\João\source\repos\Calculadora\Adicao\obj\Debug\Adicao.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Calculadora\Adicao\obj\Debug\Adicao.exe
+C:\Users\João\source\repos\Calculadora\Adicao\obj\Debug\Adicao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Adicao\bin\Debug\Adicao.exe.config
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Adicao\bin\Debug\Adicao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Adicao\bin\Debug\Adicao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Adicao\obj\Debug\Adicao.csprojResolveAssemblyReference.cache
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Adicao\obj\Debug\Adicao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Adicao\obj\Debug\Adicao.pdb

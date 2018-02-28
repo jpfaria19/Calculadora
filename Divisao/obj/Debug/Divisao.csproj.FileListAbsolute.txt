@@ -1,0 +1,13 @@
+C:\Users\João\source\repos\Calculadora\Divisao\bin\Debug\Divisao.exe.config
+C:\Users\João\source\repos\Calculadora\Divisao\bin\Debug\Divisao.exe
+C:\Users\João\source\repos\Calculadora\Divisao\bin\Debug\Divisao.pdb
+C:\Users\João\source\repos\Calculadora\Divisao\obj\Debug\Divisao.csprojResolveAssemblyReference.cache
+C:\Users\João\source\repos\Calculadora\Divisao\obj\Debug\Divisao.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Calculadora\Divisao\obj\Debug\Divisao.exe
+C:\Users\João\source\repos\Calculadora\Divisao\obj\Debug\Divisao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Divisao\bin\Debug\Divisao.exe.config
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Divisao\bin\Debug\Divisao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Divisao\bin\Debug\Divisao.pdb
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Divisao\obj\Debug\Divisao.csprojResolveAssemblyReference.cache
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Divisao\obj\Debug\Divisao.exe
+C:\Users\joao.lima\Desktop\github\.NET\C#\Calculadora\Divisao\obj\Debug\Divisao.pdb
